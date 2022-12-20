@@ -1,7 +1,7 @@
 # docs
 unofficial hubzilla manual
 
-**Welcome to hubzilla for dummies!**
+![Hubzilla](images/hz-64.png)  **Welcome to hubzilla for dummies!**
 
 We're learning as we go.
 
