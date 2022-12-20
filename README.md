@@ -1,7 +1,7 @@
 # docs
 unofficial hubzilla manual
 
-[[https://github.com/socialatm/test/blob/master/images/hz-64.png|logo]]  **Welcome to hubzilla for dummies!**
+[[/images/hz-64.png|logo]]  **Welcome to hubzilla for dummies!**
 
 We're learning as we go.
 
