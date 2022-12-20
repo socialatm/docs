@@ -1,0 +1,2 @@
+# docs
+unofficial hubzilla manual
