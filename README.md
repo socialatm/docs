@@ -11,7 +11,7 @@ I want to know how to use hubzilla.
 ### [Administrator](https://github.com/socialatm/docs/blob/main/Administrator/Administrator.md)
 I want to know how to install and run hubzilla.
 
-### [Developer](https://github.com/socialatm/test/wiki/Developer)
+### [Developer](https://github.com/socialatm/docs/blob/main/Developer/Developer.md)
 I want to know how to build hubzilla.
 
 ### [Designer](https://github.com/socialatm/test/wiki/Heavy)
